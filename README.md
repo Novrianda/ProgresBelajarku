@@ -11,4 +11,5 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 - Perencanaan Modifikasi Aplikasi
 - Pengertian Konsep dasar Pemograman
 - Modifikasi Aplikasi Perangkat Lunak
-- Dokumentasi pemograman dan Pengembangan Aplikasi Perangkat Lunak.
+- Dokumentasi pemograman dan Pengembangan Aplikasi Perangkat Lunak
+- Mengerjakan ujian akhir untuk menilai kemahiran diri.
